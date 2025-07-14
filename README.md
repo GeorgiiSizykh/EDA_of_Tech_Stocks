@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Technology Stocks and S&P 500 (2014-2024)
 
-## Project Aim 
+## Project Aim
 
 This project conducts a comprehensive exploratory data analysis (EDA) of historical closing price data for selected technology stocks (Apple - AAPL, Microsoft - MSFT, Alphabet - GOOGL) and the S&P 500 market index (^GSPC) spanning the period from January 2014 to December 2024. The analysis aims to identify, characterize, and draw preliminary conclusions regarding:
 
